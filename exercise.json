@@ -1,8 +1,8 @@
 {
     "physical_fitness": [
       {
-        "question": "What are some quick exercises I can do during study breaks?",
-        "answer": "Quick exercises to do during study breaks include stretching, jumping jacks, push-ups, squats, and brisk walking. These exercises help to refresh your mind and body, improving concentration and reducing stress."
+        "human": "What are some quick exercises I can do during study breaks?",
+        "assistant": "Quick exercises to do during study breaks include stretching, jumping jacks, push-ups, squats, and brisk walking. These exercises help to refresh your mind and body, improving concentration and reducing stress."
       }
     ]
   }

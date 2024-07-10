@@ -1,8 +1,8 @@
 {
     "nutritional_advices": [
       {
-        "question": "What are some healthy breakfast options for students?",
-        "answer": "Some healthy breakfast options for students include oatmeal with fruits, whole grain toast with avocado, Greek yogurt with nuts and berries, and smoothies made with vegetables and fruits."
+        "human": "What are some healthy breakfast options for students?",
+        "assistant": "Some healthy breakfast options for students include oatmeal with fruits, whole grain toast with avocado, Greek yogurt with nuts and berries, and smoothies made with vegetables and fruits."
       }
     ]
   }
