@@ -1,0 +1,27 @@
+{
+    "nutritional_advices": [
+      {
+        "question": "What are some healthy breakfast options for students?",
+        "answer": "Some healthy breakfast options for students include oatmeal with fruits, whole grain toast with avocado, Greek yogurt with nuts and berries, and smoothies made with vegetables and fruits."
+      }
+    ],
+    "exam_preparation_tips": [
+      {
+        "question": "How can I create an effective study schedule?",
+        "answer": "To create an effective study schedule, start by listing all the subjects you need to study. Allocate time for each subject based on its difficulty and importance. Include regular breaks and ensure you stick to your schedule. Use tools like calendars or apps to keep track of your progress."
+      }
+    ],
+    "stress_management": [
+      {
+        "question": "How can I manage exam anxiety?",
+        "answer": "Managing exam anxiety can be achieved through deep breathing exercises, regular physical activity, maintaining a healthy diet, getting enough sleep, and practicing mindfulness or meditation. It's also helpful to stay organized and prepare well in advance."
+      }
+    ],
+    "physical_fitness": [
+      {
+        "question": "What are some quick exercises I can do during study breaks?",
+        "answer": "Quick exercises to do during study breaks include stretching, jumping jacks, push-ups, squats, and brisk walking. These exercises help to refresh your mind and body, improving concentration and reducing stress."
+      }
+    ]
+  }
+  
