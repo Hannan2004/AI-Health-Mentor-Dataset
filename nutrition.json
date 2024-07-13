@@ -1,9 +1,148 @@
 {
-    "nutritional_advices": [
-      {
-        "human": "What are some healthy breakfast options for students?",
-        "assistant": "Some healthy breakfast options for students include oatmeal with fruits, whole grain toast with avocado, Greek yogurt with nuts and berries, and smoothies made with vegetables and fruits."
-      }
-    ]
-  }
-  
+  "nutritional_advice": [
+    {
+      "human": "What is a good nutrition plan for students?",
+      "assistant": "Enjoy your food and seek to have a healthy relationship with food./nEat breakfast every day - Eat within one hour of waking and include protein such as eggs, nuts, peanut butter or Greek yogurt./nEat at regular time intervals - preferably every 3-4 hours. Hunger builds when you go too long without eating which can lead to over-eating. If you eat an evening snack, have it midway between dinner and bedtime./nEat to be smart - Include foods that contain iron, B vitamins and Vitamin C. Try lean red meat, spinach, whole grain breads and cereal, eggs, nuts, oranges, apples and carrots./nEat Fruit - Fruit ranks high among the best foods you can eat for your brain. The natural sugars in fruit offer clean energy, so you don't experience the crash that follows consumption of refined sugar./nChoose powerful vegetables - The darker the color, the higher the concentration of nutrients. Great vegetable choices include spinach, peppers, broccoli, tomatoes and sweet potatoes./nChoose lean proteins - Chicken, turkey, fish, tofu, beans, cottage cheese,/nInclude healthy fats - Omega oils and plant fats are excellent for your brain, heart and inflammation. They also help to fill you up and stabilize blood sugar. Avocado, nuts, nut butters, seeds, fish, olives, olive oil./nSmart snacking can enhance productivity and mood - Try to get two food groups into your snacks to balance the nutrients and keep your blood-sugar level stable. Smart snack examples are banana with peanut butter, cheese and crackers, Greek yogurt with cereal. Avoid late night snacking./nAvoid caffeine and nicotine - These are stimulants to the central nervous system which heighten emotions and can lead to increased anxiety./nLook for stress relievers other than food - Examples can include exercise, meditation, yoga, study breaks with friends, watching TV, listening to music, warm shower./nGet your sleep - Aim for a minimum of 8 hrs of sleep per night. Sleep is the foundation to wellness - physical, emotional and mental./nStay hydrated - Your brain cells work better when they are hydrated. Water, milk and 100% fruit juice are good choices. You should have a half ounce of fluid per pound of body weight each day./nAvoid excessive alcohol - Alcohol is an amnesiac—not ideal for college students. Alcohol is dehydrating and stays in your system for 72 hours. Alcohol adds empty calories."
+    },
+    {
+      "human": "What are some healthy snacks for studying?",
+      "assistant": "Healthy snacks can be an important part of a healthy diet. They provide important nutrients and energy, help you maintain a healthy metabolism, control hunger and stabilize blood sugar. Choose these balanced snacks between meals and one or more hours before exercise./nGreek, low fat yogurt, or milk with 1/2 cup high fiber cereal (5+g fiber and protein)/n100% whole wheat bread with nut butter/nSandwich Thins or English muffin with nut butter and banana/n2%, or low fat string cheese or nut butter and fruit of choice/nCarrots, celery, cherry tomatoes, peppers with hummus/bean dip/guacamole/nFresh or frozen fruit - add peanut butter or a glass of milk/nNuts/trail mix/nGraham crackers with nut butter/nWhole grain crackers (Wheat Thins, Triscuits, Kashi, etc) with hummus, peanut butter, string cheese, Laughing Cow cheese or lowfat cheese of choice/nSnack bars: Kashi, Clif, Nature Valley, Sweet ‘n Salty, Zone, Odwalla, Kind, Luna, Lara/nCottage cheese with fresh fruit or salsa/nPopcorn plus nuts/string cheese/nEdamame (soybeans)/nPudding/nKraft 2% mac and cheese/nLean deli meat or frozen veggie burger on a sandwich thin/nInstant oatmeal with peanut butter or protein powder added/nHard-boiled egg plus fruit or crackers/nTuna packet to go plus crackers"
+    },
+    {
+      "human": "Suggest me some healthy glycemic index snacks",
+      "assistant": "High glycemic index snacks are easily digested and absorbed for quick energy 30-60 minutes prior to exercise, gametime or half-time./nFresh fruits: bananas, grapes, oranges, melons, fruit juice/nDried fruit: raisins, craisins, apricots, prunes/nCookies/Bars: Fig Newtons, Nutri-Grain Bars, Nature Valley Bars, Chew Granola Bars, graham crackers/nOthers: bagels or bread with or without jam, dry cereal (Rice Krispies, Special K, Chex), Gatorade, gummies, jelly beans, pretzels, crackers, sports gels"
+    },
+    {
+      "human": "How important is to stay hydrated for students who are preparing for exams?",
+      "assistant": "We need enough fluid for our bodies to function properly. You should aim to drink about 6-8 glasses of fluid each day (alcohol doesn’t count). Water is a good choice because it hydrates you without giving you extra calories or harming teeth and is free from the tap!/nYoung people get a lot of free sugars (the type of sugars that we all need to cut down on) in their diets from sugars-sweetened drinks (such as fizzy drinks, squash and energy drinks). Try to drink less of these, and go for water, lower-fat milk and ‘no-added-sugars’ versions instead./nTea and coffee count towards your fluid intake but be careful not to overdo it on the caffeine – try not to have more than four cups of instant coffee or five cups of tea a day (up to 400mg of caffeine a day). Too much caffeine can interrupt your sleep and cause anxiety, and in the long term may also increase your blood pressure and risk of an irregular heartbeat."
+    },
+    {
+      "human": "What are some healthy drinks for students?",
+      "assistant": "Water is the best choice for hydration. It is calorie-free and helps to keep you hydrated. You should aim to drink about 6-8 glasses of fluid each day (alcohol doesn’t count). Water is a good choice because it hydrates you without giving you extra calories or harming teeth and is free from the tap!/nTea and coffee count towards your fluid intake but be careful not to overdo it on the caffeine – try not to have more than four cups of instant coffee or five cups of tea a day (up to 400mg of caffeine a day). Too much caffeine can interrupt your sleep and cause anxiety, and in the long term may also increase your blood pressure and risk of an irregular heartbeat./nMilk is a good choice to drink with meals. It is a good source of calcium and other nutrients. Choose lower-fat milks, such as semi-skimmed, 1% or skimmed milk, to cut down on saturated fat./nFruit juice is also a good choice to drink with meals. It is a good source of vitamin C. However, it can be high in free sugars so limit the amount you drink to a small glass (150ml) a day./nSmoothies can be a good way to get some of your 5 A DAY fruit and vegetables. However, they can be high in free sugars so limit the amount you drink to a small glass (150ml) a day./nSugary drinks such as fizzy drinks, squash and energy drinks can be high in free sugars. Try to drink less of these, and go for water, lower-fat milk and ‘no-added-sugars’ versions instead."
+    },
+    {
+      "human": "What are some healthy breakfast options for students?",
+      "assistant": "Breakfast is the most important meal of the day. It provides the energy needed to start the day and helps to improve concentration and performance. A healthy breakfast should include a variety of foods from the five food groups: fruits, vegetables, grains, protein, and dairy./nHere are some healthy breakfast options for students:/nGreek yogurt with fresh fruit and granola/nWhole grain toast with avocado and eggs/nOatmeal with nuts and berries/nWhole grain cereal with milk and fruit/nSmoothie with spinach, banana, and almond milk/nWhole grain waffles with peanut butter and fruit/nEgg and vegetable scramble/nWhole grain bagel with cream cheese and smoked salmon/nBreakfast burrito with eggs, beans, and salsa/nPancakes with yogurt and fruit/nRemember to include protein, fiber, and healthy fats in your breakfast to keep you full and satisfied until lunchtime."
+    },
+    {
+      "human": "What are some healthy lunch options for students?",
+      "assistant": "Lunch is an important meal that provides the energy needed to get through the day. A healthy lunch should include a variety of foods from the five food groups: fruits, vegetables, grains, protein, and dairy./nHere are some healthy lunch options for students:/nGrilled chicken salad with mixed greens, vegetables, and vinaigrette/nWhole grain wrap with turkey, cheese, lettuce, and tomato/nVegetable stir-fry with tofu and brown rice/nTurkey and avocado sandwich on whole grain bread/nQuinoa salad with black beans, corn, and salsa/nWhole grain pasta with marinara sauce and vegetables/nHummus and vegetable wrap with whole grain tortilla/nTuna salad with mixed greens, vegetables, and balsamic vinaigrette/nChicken and vegetable stir-fry with brown rice/nRemember to include protein, fiber, and healthy fats in your lunch to keep you full and satisfied until dinner."
+    },
+    {
+      "human": "What are some healthy dinner options for students?",
+      "assistant": "Dinner is an important meal that provides the energy needed to rest and recover from the day. A healthy dinner should include a variety of foods from the five food groups: fruits, vegetables, grains, protein, and dairy./nHere are some healthy dinner options for students:/nGrilled salmon with quinoa and roasted vegetables/nWhole grain pasta with chicken, broccoli, and alfredo sauce/nVegetable stir-fry with tofu and brown rice/nTurkey meatloaf with mashed sweet potatoes and green beans/nChicken and vegetable curry with brown rice/nWhole grain pizza with vegetables and lean protein/nHummus and vegetable wrap with whole grain tortilla/nTuna salad with mixed greens, vegetables, and balsamic vinaigrette/nChicken and vegetable stir-fry with brown rice/nRemember to include protein, fiber, and healthy fats in your dinner to keep you full and satisfied until bedtime."
+    },
+    {
+      "human": "What are some healthy snack options for students?",
+      "assistant": "Snacks are an important part of a healthy diet. They provide important nutrients and energy, help you maintain a healthy metabolism, control hunger and stabilize blood sugar. Choose these balanced snacks between meals and one or more hours before exercise./nGreek, low fat yogurt, or milk with 1/2 cup high fiber"
+    },
+    {
+      "human": "What are some healthy snack options for students?",
+      "assistant": "Snacks are an important part of a healthy diet. They provide important nutrients and energy, help you maintain a healthy metabolism, control hunger and stabilize blood sugar. Choose these balanced snacks between meals and one or more hours before exercise./nGreek, low fat yogurt, or milk with 1/2 cup high fiber cereal (5+g fiber and protein)/n100% whole wheat bread with nut butter/nSandwich Thins or English muffin with nut butter and banana/n2%, or low fat string cheese or nut butter and fruit of choice/nCarrots, celery, cherry tomatoes, peppers with hummus/bean dip/guacamole/nFresh or frozen fruit - add peanut butter or a glass of milk/nNuts/trail mix/nGraham crackers with nut butter/nWhole grain crackers (Wheat Thins, Triscuits, Kashi, etc) with hummus, peanut butter, string cheese, Laughing Cow cheese or lowfat cheese of choice/nSnack bars: Kashi, Clif, Nature Valley, Sweet ‘n Salty, Zone, Odwalla, Kind, Luna, Lara/nCottage cheese with fresh fruit or salsa/nPopcorn plus nuts/string cheese/nEdamame (soybeans)/nPudding/nKraft 2% mac and cheese/nLean deli meat or frozen veggie burger on a sandwich thin/nInstant oatmeal with peanut butter or protein powder added/nHard-boiled egg plus fruit or crackers/nTuna packet to go plus crackers"
+    },
+    {
+      "human": "What are some healthy snack options for students?",
+      "assistant": "Snacks are an important part of a healthy diet. They provide important nutrients and energy, help you maintain a healthy metabolism, control hunger and stabilize blood sugar. Choose these balanced snacks between meals and one or more hours before exercise./nGreek, low fat yogurt, or milk with 1/2 cup high fiber cereal (5+g fiber and protein)/n100% whole wheat bread with nut butter/nSandwich Thins or English muffin with nut butter and banana/n2%, or low fat string cheese or nut butter and fruit of choice/nCarrots, celery, cherry tomatoes, peppers with hummus/bean dip/guacamole/nFresh or frozen fruit - add peanut butter or a glass of milk/nNuts/trail mix/nGraham crackers with nut butter/nWhole grain crackers (Wheat Thins, Triscuits, Kashi, etc) with hummus, peanut butter, string cheese, Laughing Cow cheese or lowfat cheese of choice/nSnack bars: Kashi, Clif, Nature Valley, Sweet ‘n Salty, Zone, Odwalla, Kind, Luna, Lara/nCottage cheese with fresh fruit or salsa/nPopcorn plus nuts/string cheese/nEdamame (soybeans)/nPudding/nKraft 2% mac and cheese/nLean deli meat or frozen veggie burger on a sandwich thin/nInstant oatmeal with peanut butter or protein powder added/nHard-boiled egg plus fruit or crackers/nTuna packet to go plus crackers"
+    },
+    {
+      "human": "What are nutrient-dense breakfast options for college students with limited cooking facilities?",
+      "assistant": "For students with limited cooking facilities, nutrient-dense breakfast options can include overnight oats with chia seeds, Greek yogurt with mixed berries and granola, whole grain toast with avocado and poached eggs, and smoothies made with spinach, banana, peanut butter, and almond milk. These options provide a balance of protein, healthy fats, and fiber to start the day."
+    },
+    {
+      "human": "How can students maintain a balanced diet during exam periods when they have less time to cook?",
+      "assistant": "During exam periods, students can maintain a balanced diet by preparing simple, nutritious meals in advance. Examples include quinoa salad with vegetables and feta cheese, chicken and vegetable stir-fries that can be quickly reheated, and wraps filled with canned tuna, lettuce, and avocado. Snacking on nuts, fruits, and yogurt can also help maintain energy levels without requiring much preparation time."
+    },
+    {
+      "human": "What are some quick and healthy meal prep ideas for students living in dorms?",
+      "assistant": "Students living in dorms can focus on meal prep ideas that require minimal cooking, such as mason jar salads with a variety of vegetables, beans, and a protein source like chicken or tofu; cold pasta salads with whole grain pasta, cherry tomatoes, spinach, and mozzarella; and no-cook wraps with hummus, shredded carrots, cucumbers, and deli turkey. These can be prepared in advance and stored in a mini-fridge."
+    },
+    {
+      "human": "What nutritional advice do you have for vegetarian students to ensure they're getting enough protein?",
+      "assistant": "Vegetarian students should focus on incorporating a variety of protein sources into their diet, such as lentils, chickpeas, quinoa, tofu, tempeh, and edamame. Including a protein source in every meal and snack can help ensure they meet their protein needs. Additionally, combining different plant-based proteins, like beans and rice, can provide all the essential amino acids required by the body."
+    },
+    {
+      "human": "How can students on a tight budget eat healthy while avoiding processed foods?",
+      "assistant": "Students on a tight budget can eat healthy by buying whole foods in bulk, such as brown rice, oats, beans, and lentils, which are cost-effective and nutritious. Shopping for seasonal fruits and vegetables or visiting local farmers' markets can also reduce costs. Planning meals in advance and cooking at home can help avoid the need for more expensive, processed options."
+    },
+    {
+      "human": "What are some effective strategies for students to increase their water intake throughout the day?",
+      "assistant": "Students can increase their water intake by carrying a reusable water bottle with them throughout the day, setting reminders on their phone or using apps designed to track water intake, and incorporating water-rich foods into their diet, such as cucumbers, watermelon, and oranges. Starting and ending the day with a glass of water can also help establish a healthy hydration habit."
+    },
+    {
+      "human": "Can you suggest some brain-boosting snacks for students during study sessions?",
+      "assistant": "Brain-boosting snacks for study sessions include walnuts and almonds for healthy fats, blueberries and dark chocolate for antioxidants, yogurt with flaxseeds for probiotics and omega-3s, and whole grain crackers with cottage cheese for a balance of complex carbohydrates and protein. These snacks can help improve concentration and memory."
+    },
+    {
+      "human": "What are some simple ways students can incorporate more fruits and vegetables into their diet?",
+      "assistant": "Students can incorporate more fruits and vegetables into their diet by adding spinach or kale to smoothies, snacking on carrot sticks and bell pepper slices with hummus, including a side salad with meals, and topping cereals or yogurt with fresh fruit. Choosing pre-cut vegetables and fruit or frozen options can also make it more convenient to include these foods in their diet."
+    },
+    {
+      "human": "How can students with food allergies safely navigate dining halls?",
+      "assistant": "Students with food allergies can safely navigate dining halls by communicating their allergies to the dining staff, reading food labels and ingredient lists carefully, choosing simple, whole-food options to minimize the risk of cross-contamination, and always carrying emergency medication, such as an epinephrine auto-injector. It's also helpful to plan meals during less busy hours when staff can provide more individual attention."
+    },
+    {
+      "human": "What are some healthy late-night snack options for students that won't disrupt their sleep?",
+      "assistant": "Healthy late-night snack options that won't disrupt sleep include a small bowl of whole grain cereal with almond milk, a banana with a handful of walnuts, Greek yogurt with a drizzle of honey, or a slice of whole grain toast with avocado. These options are light yet satisfying and contain nutrients that can promote better sleep."
+    },
+    {
+      "human": "What are some strategies for managing caffeine consumption in college students to avoid dependency?",
+      "assistant": "Strategies for managing caffeine consumption include setting a daily caffeine limit, avoiding caffeine after a certain time to not disrupt sleep, substituting caffeinated beverages with decaffeinated or caffeine-free alternatives like herbal teas, and ensuring adequate hydration by drinking plenty of water. Gradually reducing caffeine intake can also help avoid withdrawal symptoms."
+    },
+    {
+      "human": "How can students ensure they're getting enough vitamins and minerals while on a vegan diet?",
+      "assistant": "Students on a vegan diet can ensure they're getting enough vitamins and minerals by eating a variety of fruits, vegetables, whole grains, nuts, seeds, and legumes. Fortified foods, such as plant-based milks and cereals, can help provide vitamin B12, calcium, and vitamin D. Considering a B12 supplement and possibly others, like vitamin D and omega-3 fatty acids, after consulting with a healthcare provider, is also advisable."
+    },
+    {
+      "human": "What are some quick, healthy, and high-energy breakfast ideas for students who are always running late?",
+      "assistant": "Quick, healthy, and high-energy breakfast ideas for students include peanut butter and banana sandwiches on whole grain bread, Greek yogurt with granola and fruit, instant oatmeal packets with a scoop of protein powder and nuts, and breakfast smoothies with spinach, banana, protein powder, and almond milk. These can be prepared in minutes and are portable."
+    },
+    {
+      "human": "How can students balance social eating with maintaining a healthy diet?",
+      "assistant": "Students can balance social eating with maintaining a healthy diet by making healthier choices when dining out, such as opting for grilled instead of fried foods, choosing salads with dressing on the side, and controlling portion sizes. Sharing meals or choosing appetizers as main courses can also help. Planning ahead by eating a small, healthy snack before going out can reduce the temptation to overeat."
+    },
+    {
+      "human": "What are some effective meal planning tips for students with a hectic schedule?",
+      "assistant": "Effective meal planning tips for students with a hectic schedule include dedicating a time each week to plan meals and prepare ingredients in advance, cooking in bulk and freezing portions for later, using a slow cooker or instant pot for easy and quick meals, and keeping healthy snacks on hand. Apps and tools for meal planning and grocery shopping can also help streamline the process."
+    },
+    {
+      "human": "How can students make healthier food choices when eating out?",
+      "assistant": "Students can make healthier food choices when eating out by reviewing the menu online in advance to make a mindful choice, asking for modifications to dishes (such as dressing on the side or substituting fries with a salad), opting for water or unsweetened beverages instead of sugary drinks, and starting with a salad or broth-based soup to help control hunger and portion sizes."
+    },
+    {
+      "human": "What are some ways to stay hydrated besides drinking water?",
+      "assistant": "Ways to stay hydrated besides drinking water include consuming fruits and vegetables with high water content like cucumbers, tomatoes, watermelon, and oranges, drinking herbal teas or infused water for variety, consuming broth-based soups, and including milk or plant-based milk alternatives, which are also good hydration sources. These alternatives can help meet hydration needs with added nutritional benefits."
+    },
+    {
+      "human": "Can you suggest some portable and non-perishable healthy snack options for students?",
+      "assistant": "Portable and non-perishable healthy snack options for students include mixed nuts and seeds, whole grain crackers or rice cakes, natural peanut butter or almond butter packets, dried fruit without added sugar, whole grain granola bars or energy bars with minimal added sugars, and shelf-stable individual hummus or guacamole packs. These options are convenient, nutritious, and can be easily stored in a backpack."
+    },
+    {
+      "human": "What advice do you have for students trying to reduce sugar intake?",
+      "assistant": "Advice for students trying to reduce sugar intake includes reading food labels to identify added sugars, choosing natural sweeteners like fruit to sweeten foods and beverages, reducing the consumption of sugary drinks by opting for water, herbal teas, or unsweetened beverages, and gradually decreasing the amount of sugar used in coffee and tea. Focusing on whole foods and cooking meals at home can also help control sugar intake."
+    },
+    {
+      "human": "How can students incorporate physical activity into their routine to complement their nutritional efforts?",
+      "assistant": "Students can incorporate physical activity into their routine by scheduling short, regular exercise sessions between classes or study times, walking or biking to campus instead of driving, participating in intramural sports or fitness classes offered by the university, using study breaks for quick workouts or stretching sessions, and forming a workout group with friends for motivation. Even small amounts of activity can complement nutritional efforts and improve overall health."
+    },
+    {
+      "human": "What are some strategies for students to avoid late-night snacking?",
+      "assistant": "Strategies for students to avoid late-night snacking include having a filling and balanced dinner to reduce hunger later in the night, establishing a regular eating schedule to stabilize hunger cues, keeping unhealthy snacks out of reach or not purchasing them at all, and finding alternative activities to distract from the urge to snack, such as reading or engaging in a hobby. Drinking herbal tea or water can also help curb late-night cravings."
+    },
+    {
+      "human": "How can students with dietary restrictions find suitable options in their college dining hall?",
+      "assistant": "Students with dietary restrictions can find suitable options in their college dining hall by communicating their needs to the dining staff and inquiring about special dietary menus or accommodations. Many dining halls offer labels for common allergens and dietary preferences. It's also beneficial to familiarize oneself with the dining hall's weekly menu to plan ahead. Joining or forming a support group with other students who have similar dietary restrictions can provide additional tips and support."
+    },
+    {
+      "human": "What are some simple and healthy dessert options for students?",
+      "assistant": "Simple and healthy dessert options for students include Greek yogurt with honey and mixed berries, dark chocolate-dipped strawberries, baked apples with cinnamon and a sprinkle of granola, homemade banana ice cream made by blending frozen bananas, and fruit salads with a squeeze of fresh lime juice and mint. These options satisfy sweet cravings while providing nutritional benefits."
+    },
+    {
+      "human": "How can students ensure they are consuming enough fiber in their diet?",
+      "assistant": "Students can ensure they are consuming enough fiber in their diet by including whole grains, such as oatmeal, brown rice, and whole wheat bread, in their meals, eating a variety of fruits and vegetables throughout the day, incorporating legumes like beans, lentils, and chickpeas into dishes, choosing high-fiber snacks such as nuts, seeds, and popcorn, and reading food labels to choose products with higher fiber content."
+    },
+    {
+      "human": "What are some effective ways for students to manage stress eating?",
+      "assistant": "Effective ways for students to manage stress eating include identifying triggers that lead to stress eating and finding alternative coping mechanisms, such as exercise, meditation, or talking to a friend. Keeping a food diary can help recognize patterns in stress eating. Stocking up on healthy snacks and portioning them out in advance can prevent overeating. Practicing mindful eating techniques, such as eating slowly and without distractions, can also help manage stress eating."
+    }
+  ]
+}
