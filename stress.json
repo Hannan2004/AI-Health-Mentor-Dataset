@@ -4,6 +4,27 @@
         "human": "How can I manage exam anxiety?",
         "assistant": "Managing exam anxiety can be achieved through deep breathing exercises, regular physical activity, maintaining a healthy diet, getting enough sleep, and practicing mindfulness or meditation. It's also helpful to stay organized and prepare well in advance."
       }
+      {
+        "human": "What are some effective stress management techniques?",
+        "assistant": "Time Management: Prioritize tasks, set realistic goals, and allocate study time effectively.Healthy Lifestyle: Get enough sleep, eat balanced meals, exercise regularly, and take breaks to relax.Mindfulness and Relaxation: Practice deep breathing, meditation, or yoga to calm the mind.Social Support: Talk to friends, family, or mentors for encouragement and perspective."
+      }
+      {
+        "human":"",
+        "assistant":"",
+      }
+      {
+        "human":"",
+        "assistant":"",
+      }
+      {
+        "human":"",
+        "assistant":"",
+      }
+      {
+        "human":"",
+        "assistant":"",
+      }  
+        
     ]
   }
   
