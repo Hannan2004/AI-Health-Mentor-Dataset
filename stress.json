@@ -133,12 +133,16 @@
         "assistant":"Ask for Help: Seek assistance from teachers or peers.Use Multiple Resources: Look for different explanations online or in other books.Break it Down: Simplify the concept into smaller parts.Stay Patient: Give yourself time to understand.Practice: Work on related problems to reinforce understanding.",
       }
       {
-        "human":"",
-        "assistant":"",
+        "human":"How can I manage my time effectively to reduce stress?",
+        "assistant":"Create a study schedule and stick to it, prioritizing high-priority topics first. Include short breaks in your study schedule and use timers to manage your study and break sessions. Keep your study space and materials tidy to stay organized and reduce stress.",
       }
       {
-        "human":"",
-        "assistant":"",
+        "human":"What can I do if I feel anxious about not covering the entire syllabus?",
+        "assistant":"Focus on the most important subjects first by prioritizing key topics, and break down the syllabus into manageable sections. Maintain consistent study habits to cover more material over time, and seek help from teachers for guidance on crucial topics. Stay positive by reminding yourself that consistent effort pays off.",
+      }
+      {
+        "human":"How can I manage stress when I have multiple exams in a short period?",
+        "assistant":"Allocate time for each subject by creating a study plan and focus on the most challenging subjects first. Keep a checklist of what you need to study to stay organized, and practice relaxation techniques like deep breathing or meditation. Seek support from friends or mentors if you feel overwhelmed to manage stress effectively.",
       }
       {
         "human":"",
