@@ -145,9 +145,30 @@
         "assistant":"Allocate time for each subject by creating a study plan and focus on the most challenging subjects first. Keep a checklist of what you need to study to stay organized, and practice relaxation techniques like deep breathing or meditation. Seek support from friends or mentors if you feel overwhelmed to manage stress effectively.",
       }
       {
-        "human":"",
-        "assistant":"",
-      }  
+        "human":"I'm having trouble sleeping due to exam stress. What can I do?",
+        "assistant":"Establish a consistent sleep schedule. Avoid screens before bedtime. Try relaxation techniques like progressive muscle relaxation or listening to calming music. If sleep issues persist, consider talking to a healthcare professional.",
+      }
+      {
+        "human":"I'm experiencing burnout from constant studying. How can I recover while staying on track?",
+        "assistant":"Take short breaks to engage in activities you enjoy. Ensure you're getting enough sleep and exercise. Reassess and adjust your study schedule if needed. Remember that taking care of your mental health is crucial for effective learning and exam performance.",
+      } 
+      {
+        "human":"How can I cope with the competitive atmosphere among my peers preparing for IIT JEE",
+        "assistant":"Focus on your own progress rather than comparing yourself to others. Remember that everyone has different strengths and learning paces. Use peer interactions for mutual support and learning, not for unhealthy competition. If needed, limit exposure to stress-inducing discussions about the exam.",
+      }   
+      {
+        "human":"I'm experiencing physical symptoms like headaches and stomach aches due to exam stress. What should I do?",
+        "assistant":"These can be common stress reactions. Ensure you're getting enough rest, eating well, and exercising regularly. Practice relaxation techniques like deep breathing or yoga. If symptoms persist, consult a healthcare professional to rule out other causes and get appropriate treatment.",
+      } 
+      {
+        "human":"How can I deal with the fear of blanking out during the actual NEET exam?",
+        "assistant":"Practice mock tests under exam-like conditions to build confidence. Learn and practice calming techniques you can use during the exam, like deep breathing or positive self-talk. Remember that momentary blanks are normal - if it happens, stay calm, move to the next question, and return later if time allows.",
+      } 
+      {
+        "human":"How can I handle the stress of balancing school exams with NEET preparation?",
+        "assistant":"Create a comprehensive schedule that accounts for both school and entrance exam preparation. Prioritize topics that overlap between school curriculum and entrance exams. Communicate with your school teachers about your preparation to get their support. Remember that doing well in school exams can boost your confidence for entrance exams too.",
+      }
+        
     ]
   }
   
