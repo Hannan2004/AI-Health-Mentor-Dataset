@@ -221,8 +221,44 @@
       "assistant": "Yes, foods rich in omega-3 fatty acids (like fatty fish and flaxseeds), complex carbohydrates (like whole grains), and antioxidants (like berries and dark chocolate) can help improve mood. Avoid excessive caffeine and sugar, which can lead to mood swings."
     }
     {
-      "human": "",
-      "assistant": ""
+      "human": "How can I stay alert and focused during late-night study sessions?",
+      "assistant": "To stay alert, prioritize light meals and snacks rich in complex carbohydrates and protein. Take short breaks to stretch and move around, and stay hydrated with water or herbal teas to avoid caffeine-induced crashes."
+    }
+    {
+      "human": "What are some healthy snacks to eat during late-night study sessions?",
+      "assistant": "Opt for snacks like nuts, yogurt, fruits, or whole-grain crackers with cheese. These choices provide sustained energy and essential nutrients without causing a sugar crash."
+    }
+    {
+      "human": "How can I improve sleep quality after late-night study sessions?",
+      "assistant": " Establish a consistent bedtime routine, including winding down with relaxation techniques like deep breathing or gentle stretching. Avoid screens and heavy meals close to bedtime to promote better sleep."
+    }
+    {
+      "human": "What strategies can I use to avoid feeling fatigued the next day after studying late at night?",
+      "assistant": "Plan shorter study sessions with breaks, prioritize quality over quantity, and ensure you're getting adequate nutrition throughout the day to sustain energy levels. A short nap during the day can also help recharge."
+    }
+    {
+      "human": "How can I minimize the impact of late-night studying on my overall health?",
+      "assistant": "Prioritize balanced meals throughout the day to maintain energy levels. Limit caffeine intake in the evening and practice relaxation techniques before bed to ensure adequate sleep quality."
+    }
+    {
+      "human": "What role does hydration play in late-night study sessions?",
+      "assistant": "Staying hydrated is crucial as dehydration can lead to fatigue and difficulty concentrating. Drink water regularly and consider herbal teas or diluted fruit juices as alternatives."
+    }
+    {
+      "human": "How can I maintain a healthy sleep schedule while preparing for exams?",
+      "assistant": "Establish a consistent bedtime routine, aiming for at least 7-9 hours of sleep per night. Avoid studying in bed and create a relaxing environment conducive to sleep"
+    }
+    {
+      "human": "How can I maintain a healthy sleep schedule while preparing for exams?",
+      "assistant": "Establish a consistent bedtime routine, aiming for at least 7-9 hours of sleep per night. Avoid studying in bed and create a relaxing environment conducive to sleep."
+    }
+    {
+      "human": "What are the benefits of taking short breaks during late-night study sessions?",
+      "assistant": " Short breaks help maintain focus and prevent burnout. Use breaks to stretch, walk, or engage in relaxing activities like listening to music or meditating."
+    }
+    {
+      "human": "How can I manage stress and anxiety during late-night study sessions?",
+      "assistant": "Practice stress-reduction techniques such as deep breathing exercises, mindfulness, or yoga. Prioritize self-care activities and seek support from friends, family, or counselors if needed."
     }
     
   ]
