@@ -257,8 +257,8 @@
     "assistant": "Staying organized by keeping study materials, notes, and schedules in order can reduce clutter and confusion, making it easier to focus and reducing stress.",
       },
       {
-          "human":
-          "assistant": 
+          "human":"How did you approach the actual exam day? Do you have any tips for managing exam-day anxiety?",
+          "assistant": "Managing exam-day anxiety involves staying calm and composed. Ensure you have everything prepared the night before, get a good night’s sleep, and reach the exam center early. Deep breathing exercises and positive self-talk can help maintain a calm mind, which is crucial for performing well under pressure."
       },
     ]
   }
