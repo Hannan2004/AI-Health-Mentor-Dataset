@@ -285,9 +285,29 @@
           "assistant": "Physical activity increases blood flow to the brain, enhancing cognitive functions like memory, attention, and problem-solving skills. It also promotes the release of neurotransmitters that support mental health."
       }, 
       {
+          "human":"Give the importance of maintaining a healthy lifestyle during prep.",
+          "assistant":"Maintaining a healthy lifestyle is vital as it directly impacts your concentration and performance. Regular exercise, adequate sleep, and a balanced diet ensure that you stay physically and mentally fit. Students who lead a healthy lifestyle are more likely to stay focused and perform better in their studies."
+      }, 
+      {
+          "human":"How does regular exercise impact your ability to concentrate during exam prep?",
+          "assistant":"Regular exercise increases blood flow to the brain, improving cognitive functions and concentration, reducing stress, and boosting energy levels."
+      },
+      {
+          "human":"What are some healthy habits to maintain during intense study periods?",
+          "assistant":"Healthy habits include regular physical activity, staying hydrated, eating nutritious meals, taking breaks, practicing mindfulness, and maintaining a consistent sleep schedule."
+      },
+      {
+          "human":"What are some effective deep breathing exercises for staying calm during exams?",
+          "assistant":"Practice diaphragmatic breathing, the 4-7-8 technique, or alternate nostril breathing to reduce stress and increase calmness."
+      },
+      {
           "human":
           "assistant":
-      },  
+      },
+      {
+          "human":
+          "assistant":
+      },
 
     ]
 }
