@@ -380,6 +380,10 @@
       "human": "What are some benefits of eating whole grains for brain health?",
       "assistant": "Whole grains provide steady energy, are rich in fiber, and contain essential nutrients like B vitamins that support brain health and cognitive function."
     },
+    {
+      "human":"How can a balanced diet benefit your study routine?",
+      "assistant":"A balanced diet provides necessary nutrients for brain function, maintaining energy levels, and improving mood and focus, which are critical for effective studying."
+    }
     
   ]
 }
