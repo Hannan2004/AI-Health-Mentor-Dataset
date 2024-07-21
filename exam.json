@@ -254,8 +254,28 @@
           "assistant":"Yes, self-study combined with online resources can be sufficient to crack JEE Mains. Utilise trusted study materials, online video lectures, practice questions, and interactive forums for doubt clarification. Stay dedicated, disciplined, and consistently evaluate your progress to maximise your chances of success."
       },
       {
-          "human":
-          "assistant":
+          "human":"How important is it to balance schoolwork and entrance exam prep?",
+          "assistant":"Balancing schoolwork and entrance exam preparation is crucial because both are important. Excelling in school builds a strong foundation, while performing well in entrance exams secures your future career path. Effective time management is key to ensuring you can meet the demands of both without compromising on either."
+      },
+      {
+          "human":"How to prioritize different subjects in the exam?",
+          "assistant":"Prioritizing subjects depends on individual strengths and current exam trends. For example, focusing on Mathematics is crucial for JEE, as the questions tend to be more challenging. Understanding which subjects require more attention based on your strengths and weaknesses can help in strategizing your preparation effectively."
+      },
+      {
+          "human":"How to handle distractions and maintain focus?",
+          "assistant":"Handling distractions requires perseverance and self-discipline. Create a study environment free of distractions, set clear goals, and take regular breaks to stay focused. Developing a routine and sticking to it helps maintain consistency and reduces the impact of external distractions."
+      },
+      {
+          "human":"What are some common mistakes to avoid during preparation?",
+          "assistant":"One common mistake is wasting time on unnecessary activities that do not contribute to your preparation. It’s essential to stay organized, stick to a study plan, and avoid procrastination. Efficient use of time and focusing on high-yield topics can prevent common pitfalls."
+      },
+      {
+          "human":"Did you attend any coaching classes? How helpful were they?",
+          "assistant":"Coaching classes can be very beneficial as they provide structured learning and access to experienced teachers. While they don’t guarantee success, they can definitely make the path easier by offering guidance, resources, and a competitive environment that enhances your preparation."
+      },
+      {
+          "human":"Did you take mock tests? How did you analyze and learn from them?",
+          "assistant":"Taking mock tests is essential as they help track your progress and identify areas for improvement. Analyzing your performance in these tests allows you to understand your mistakes and work on them. Regular mock tests also help in building exam stamina and time management skills."
       },
     ]
   }
